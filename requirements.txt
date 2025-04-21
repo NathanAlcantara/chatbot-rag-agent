@@ -2,3 +2,5 @@ fastapi
 uvicorn
 sentence-transformers
 pymilvus
+hf_xet
+PyPDF2
